@@ -1,0 +1,7 @@
+node_modules/
+.DS_Store
+npm-debug.log
+build/
+tsconfig.schema.json
+tsconfig.schemastore-schema.json
+.idea/
